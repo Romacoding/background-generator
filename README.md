@@ -1,1 +1,1 @@
-# Background-Generator in JavaScript
+# Background-Generator in the browser
