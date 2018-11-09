@@ -1,1 +1,2 @@
-# Background-Generator in the browser
+# Background Generator
+Just for fun!
